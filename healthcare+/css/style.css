@@ -13,7 +13,7 @@
 }
 
 .session-about {
-    padding: 0px 0px 0px 175px;
+    padding: 0px 0px 0px 140px;
     background-color: #009900;
     color: white;
     height: 180px;
@@ -36,7 +36,7 @@
 }
 
 .session-how-to {
-  padding: 0px 0px 0px 175px;
+  padding: 0px 0px 0px 140px;
   color: #009900;
   height: 200px;
 }
@@ -59,7 +59,8 @@
 }
 
 .footer img {
-  margin-left: 35%;
+  width: inherit;
+  float: none;
 }
 
 .text-hc {
