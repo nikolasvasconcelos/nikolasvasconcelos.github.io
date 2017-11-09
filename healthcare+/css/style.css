@@ -1,0 +1,67 @@
+.navbar.navbar-fixed-top {
+    border-bottom: 1px solid #b0b0b1;;
+    padding: 10px 0px;
+    background-color: white;
+}
+
+.header-logo {
+    width: 425px;
+}
+
+.first-div {
+  margin-top: 127px;
+}
+
+.session-about {
+    padding: 0px 0px 0px 175px;
+    background-color: #009900;
+    color: white;
+    height: 180px;
+}
+
+.session-about > div {
+  display: inline-block;
+  padding-top: 10px;
+  width: 70%;
+}
+
+.session-about h3, .session-how-to h3  {
+  font-weight: bolder;
+}
+
+.session-about img {
+  width: 30%;
+  height: 100%;
+  float: right;
+}
+
+.session-how-to {
+  padding: 0px 0px 0px 175px;
+  color: #009900;
+  height: 200px;
+}
+
+.session-how-to img {
+  width: 30%;
+  height: 100%;
+  float: left;
+}
+
+.session-how-to > div {
+  display: inline-block;
+  padding: 10px 10px;
+  width: 70%;
+}
+
+.session-how-to.footer {
+    text-align: center;
+    padding: 0px ;
+}
+
+.footer img {
+  margin-left: 35%;
+}
+
+.text-hc {
+  color: #1FDB00
+}
